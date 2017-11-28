@@ -3,8 +3,8 @@ test repository for sasap workshop
 
 ## More sections
 
--apples
+- apples
   + Fuji
   + Gala
--oranges
--bananas
+- oranges
+- bananas
