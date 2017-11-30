@@ -15,12 +15,15 @@ OceanAK <- read.csv("C://Users//mddonnellan//Documents//R//Development//SASAP_ex
 ```
 
 Load Packages
-```{r}
+```{r, echo = FALSE}
+suppressPackageStartupMessages({
 library(tidyr)
 library(dplyr)
 library(leaflet)
 library(ggplot2)
 library(DT)
+})
+
 ```
 
 ```{r}
